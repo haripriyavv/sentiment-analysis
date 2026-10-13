@@ -1,11 +1,11 @@
-  # Solar Panel Power Prediction
+  # Sentiment Analysis
 
-  Predicts solar panel power output based on environmental parameters.
+  NLP-based sentiment classifier for text data.
 
   ## Tech Used
-  - Python, scikit-learn, pandas, NumPy, Matplotlib
+  - Python, NLTK/TextBlob, scikit-learn, pandas
 
   ## How to Run
-  1. Clone: `git clone https://github.com/haripriyavv/solar-panel-prediction.git`
+  1. Clone: `git clone https://github.com/haripriyavv/sentiment-analysis.git`
   2. Install: `pip install -r requirements.txt`
   3. Run: `python main.py`
